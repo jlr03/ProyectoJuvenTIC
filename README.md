@@ -1,8 +1,9 @@
-# Getting Started with Create React App
+# Food World
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Es un aplicativo web para un restaurante utilizando tecnologías del front-end: HTML5, CSS, Bootstrap, JavaScript y React. Con una base de datos usando SQL Server y usando .Net para la conexión de la misma.
+El proyecto permite una visualización limpia, ordenada, y clara de los servicios y productos ofrecidos por elrestaurante con el fin de tener presencia en internet, informar a la clientela de los servicios y platos ofrecidos, cautivar la atención de clientes potenciales y mejorar la estrategia de promoción del restaurante.
 
-## Available Scripts
+## Comenzando
 
 In the project directory, you can run:
 
