@@ -5,9 +5,28 @@ El proyecto permite una visualización limpia, ordenada, y clara de los servicio
 
 ## Instalación.
 
+1. Clonar el repositorio 
+   ```bash
+   git clone https://github.com/jlr03/ProyectoJuvenTIC.git
+   ```
 
+2. Instalar [Node.js](https://nodejs.org/es/) para poder ejecutar React.js
 
-### `npm start`
+3. Descargar un editor de codigo como Visual Studio Code.
+
+4. Abrir el proyecto "ProyectoJuvenTIC" en Visual Studio Code, ejecutar el terminal desde el editor e instalar las dependecias
+   ```bash
+   npm install
+   ```
+   
+5. Ejecutar el proyecto
+   ```bash
+   npm start
+   ```
+
+Debera aparecer este inicio de pagina en su navegador de preferencia:
+
+   
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
