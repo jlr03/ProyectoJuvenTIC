@@ -3,9 +3,9 @@
 Es un aplicativo web para un restaurante utilizando tecnologías del front-end: HTML5, CSS, Bootstrap, JavaScript y React. Con una base de datos usando SQL Server y usando .Net para la conexión de la misma.
 El proyecto permite una visualización limpia, ordenada, y clara de los servicios y productos ofrecidos por elrestaurante con el fin de tener presencia en internet, informar a la clientela de los servicios y platos ofrecidos, cautivar la atención de clientes potenciales y mejorar la estrategia de promoción del restaurante.
 
-## Comenzando
+## Instalación.
 
-In the project directory, you can run:
+
 
 ### `npm start`
 
