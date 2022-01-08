@@ -5,6 +5,11 @@ El proyecto permite una visualización limpia, ordenada, y clara de los servicio
 
 ## Instalación.
 
+<b>Atención:</b> 
+El aplicativo hace uso de una API en algunas paginas para su funcionamiento por lo que es necesaria su ejecución. La API se encuentra en el siguiente repositorio: <br>
+https://github.com/jlr03/API-ProyectoJuvenTIC.git
+
+
 1. Clonar el repositorio 
    ```bash
    git clone https://github.com/jlr03/ProyectoJuvenTIC.git
